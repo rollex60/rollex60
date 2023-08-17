@@ -1,7 +1,41 @@
 <h2 dir="auto"><a id="user-content-technology-stack" class="anchor" aria-hidden="true" href="#technology-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Technology stack</h2>
 <p dir="auto"><img align="right" alt="GIF" src="https://github.com/rollex60/rollex60/blob/main/code.gif?raw=true" width="500" height="320" data-animated-image="" style="max-width: 100%;"></p>
 <p dir="auto"><strong>Back-end</strong></p>
-<p dir="auto"><img src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" style="max-width: 100%;">
+
+
+<p dir="auto"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=white" alt="Python" loading="lazy" width="75" height="22">
+  
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-rounded&logo=django&logoColor=white" alt="Django" loading="lazy" width="75" height="22">
+
+<img src="https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-rounded&amp;logo=Django" alt="Django Channels" loading="lazy" width="120" height="22">
+
+<img src="https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-rounded&amp;logo=Django" alt="Django Channels" loading="lazy" width="100" height="22">
+
+<img src="https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-rounded&amp;logo=FastAPI" alt="FastAPI" loading="lazy" width="75" height="22">
+
+<img src="https://img.shields.io/badge/-Flask-%232c3e50?style=flat-rounded&amp;logo=Flask" alt="Flask" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/DRF-red?style=flat-rounded&amp;logo=Django" alt="DRF" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/-DCRF-46a2f1?style=flat-rounded&amp;logo=Django" alt="DCRF" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/-ORMAR-DD0031?style=flat-rounded&amp;logo=ORMAR" alt="ORMAR" loading="lazy" width="55" height="22">
+
+<img src="https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-rounded&amp;logo=SqlAlchemy" alt="SqlAlchemy" loading="lazy" width="80" height="22">
+
+<img src="https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-rounded&amp;logo=Celery" alt="Celery" loading="lazy" width="70" height="22">
+
+
+</p>
+
+
+
+
+
+
+<p dir="auto"><strong>Back-end</strong></p>
+
+<p dir="auto"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/eb8d7eef4c7ab128ee2e8232f3d22cacf840b84e29023a33523322669db65401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3061616434383f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f" alt="Django" data-canonical-src="https://img.shields.io/badge/-Django-0aad48?style=flat-square&amp;logo=Django" style="max-width: 100%;">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/31b059d55d69f69db05c3c97eebc6b83d0e3e71f94ade208379a4936cad43590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4452462d7265643f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f"><img src="https://camo.githubusercontent.com/31b059d55d69f69db05c3c97eebc6b83d0e3e71f94ade208379a4936cad43590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4452462d7265643f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f" alt="Django Rest Framework" data-canonical-src="https://img.shields.io/badge/DRF-red?style=flat-square&amp;logo=Django" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/76a8ca65ea45604ace6d6408510e4a16864599759b16849791538ffe9098c726/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f5f4368616e6e656c732d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f"><img src="https://camo.githubusercontent.com/76a8ca65ea45604ace6d6408510e4a16864599759b16849791538ffe9098c726/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f5f4368616e6e656c732d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f" alt="Django Channels" data-canonical-src="https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&amp;logo=Django" style="max-width: 100%;"></a>
