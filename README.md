@@ -31,6 +31,7 @@
 
 <p dir="auto"><strong>Back-end</strong></p>
 
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-rounded&logo=odoo&logoColor=white" alt="Odoo" loading="lazy" width="60" height="22">
 
 <p dir="auto"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=white" alt="Python" loading="lazy" width="75" height="22">
   
