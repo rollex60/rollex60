@@ -19,13 +19,65 @@ Na Netwods desenvolvo websites institucionais, landing pages, lojas online e sol
 ## Tecnologias e ferramentas
 
 **Web**
-HTML · CSS · JavaScript · React · Bootstrap
+<p dir="auto">
+
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-rounded&amp;logo=html5&amp;logoColor=ffffff" alt="HTML5" loading="lazy" width="65" height="22">
+
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-rounded&amp;logo=css3" alt="CSS3" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-rounded&logo=bootstrap&logoColor=white" alt="Bootstrap" loading="lazy" width="95" height="22">
+
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-rounded&logo=sass&logoColor=white" alt="Sass" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/-React-%232c3e50?style=flat-rounded&amp;logo=react" alt="React" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-rounded&amp;logo=vue-dot-js" alt="Vue.js" loading="lazy" width="50" height="22">
+
+<img src="https://img.shields.io/badge/json-F7DF1E?style=flat-rounded&logo=json&logoColor=gray" alt="JSON" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-rounded&logo=node.js&logoColor=white" alt="Node.js" loading="lazy" width="70" height="22">
+
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-rounded&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" loading="lazy" width="95" height="22">
+
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-rounded&logo=jquery&logoColor=white" alt="jQuery" loading="lazy" width="70" height="22">
+  
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-rounded&logo=javascript&logoColor=F7DF1E" alt="javascript" loading="lazy" width="95" height="22">
+
+</p>
 
 **WordPress**
 WordPress · WooCommerce · Elementor · Flatsome · SEO técnico
 
 **Back-end**
-Python · Django · APIs · Bases de dados
+<p dir="auto"><strong>Back-end</strong></p>
+
+<p dir="auto"><img src="https://img.shields.io/badge/Odoo-CC6699?style=flat-rounded&logo=O&logoColor=white" alt="Odoo" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=white" alt="Python" loading="lazy" width="75" height="22">
+  
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-rounded&logo=django&logoColor=white" alt="Django" loading="lazy" width="75" height="22">
+
+<img src="https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-rounded&amp;logo=Django" alt="Django Channels" loading="lazy" width="120" height="22">
+
+<img src="https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-rounded&amp;logo=Django" alt="Django Channels" loading="lazy" width="100" height="22">
+
+<img src="https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-rounded&amp;logo=FastAPI" alt="FastAPI" loading="lazy" width="75" height="22">
+
+<img src="https://img.shields.io/badge/-Flask-%232c3e50?style=flat-rounded&amp;logo=Flask" alt="Flask" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/DRF-red?style=flat-rounded&amp;logo=Django" alt="DRF" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/-DCRF-46a2f1?style=flat-rounded&amp;logo=Django" alt="DCRF" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-rounded&logo=kotlin&logoColor=white" alt="Kotlin" loading="lazy" width="60" height="22">
+
+<img src="https://img.shields.io/badge/-ORMAR-DD0031?style=flat-rounded&amp;logo=ORMAR" alt="ORMAR" loading="lazy" width="55" height="22">
+
+<img src="https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-rounded&amp;logo=SqlAlchemy" alt="SqlAlchemy" loading="lazy" width="80" height="22">
+
+<img src="https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-rounded&amp;logo=Celery" alt="Celery" loading="lazy" width="70" height="22">
+
+</p>
 
 **Marketing e SEO**
 Google Search Console · Google Analytics · Otimização On-page · Performance
