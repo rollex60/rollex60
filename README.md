@@ -7,7 +7,7 @@ Sou Yevhen Drahan, fundador da **Netwods**, e ajudo empresas, pequenos negócios
 
 Na Netwods desenvolvo websites institucionais, landing pages, lojas online e soluções digitais focadas em design, velocidade, SEO básico e facilidade de utilização.
 
-O que faço
+## O que faço
 
 - Criação de websites profissionais
 - Landing pages para campanhas e pedidos de orçamento
