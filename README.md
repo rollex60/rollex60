@@ -49,7 +49,6 @@ Na Netwods desenvolvo websites institucionais, landing pages, lojas online e sol
 WordPress · WooCommerce · Elementor · Flatsome · SEO técnico
 
 **Back-end**
-<p dir="auto"><strong>Back-end</strong></p>
 
 <p dir="auto"><img src="https://img.shields.io/badge/Odoo-CC6699?style=flat-rounded&logo=O&logoColor=white" alt="Odoo" loading="lazy" width="60" height="22">
 
